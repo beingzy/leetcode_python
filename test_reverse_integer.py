@@ -4,6 +4,7 @@ from reverse_integer import Solution
 s = Solution()
 
 class TestUM(unittest.TestCase):
+
 	def setUp(self):
 		pass
 
